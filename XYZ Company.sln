@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralAccess", "M3 Lab\GeneralAccess.csproj", "{DD20D987-F103-4676-8581-945973549086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlledAccess", "AccessControl\ControlledAccess.csproj", "{79D20846-2EED-4DC5-AC13-9797E05EE8A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD20D987-F103-4676-8581-945973549086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD20D987-F103-4676-8581-945973549086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD20D987-F103-4676-8581-945973549086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD20D987-F103-4676-8581-945973549086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D20846-2EED-4DC5-AC13-9797E05EE8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D20846-2EED-4DC5-AC13-9797E05EE8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D20846-2EED-4DC5-AC13-9797E05EE8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D20846-2EED-4DC5-AC13-9797E05EE8A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51F0F928-6C0E-4E08-BB21-1DF0481E19B9}
+	EndGlobalSection
+EndGlobal
